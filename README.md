@@ -2,7 +2,8 @@
 
 A JavaScript-free HTML language server for easy usage and installation.
 
-*Currently in active development*
+*Currently in active development.
+Its main purpose is to improve my OCaml skills*
 
 ## Quick Start
 
